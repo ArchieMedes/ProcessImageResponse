@@ -8,7 +8,7 @@ module.exports = async function (context, req) {
         /*let responseBody = {
             response: {
                 code: "00",
-                webServiceResponse: 'https://stgaccintebotne5t7ecgyzx.blob.core.windows.net/multimedia/tal vez.png' 
+                webServiceResponse: 'https://stgaccintebotne5t7ecgyzx.blob.core.windows.net/multimedia/tal vez.jpg' 
             }
         }
 
@@ -18,7 +18,7 @@ module.exports = async function (context, req) {
             body: {
                 response: {
                     code: "00",
-                    webServiceResponse: 'https://stgaccintebotne5t7ecgyzx.blob.core.windows.net/multimedia/tal vez.png' 
+                    webServiceResponse: 'https://stgaccintebotne5t7ecgyzx.blob.core.windows.net/multimedia/tal vez.jpg' 
                 }
             }  
         };
